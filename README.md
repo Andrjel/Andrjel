@@ -6,8 +6,8 @@ I'm an Automation & Robotics Engineer currently working as a backend developer. 
 
 ### 🔧 Tech Stack & Tools:
 - **Languages:** Python, C#, SQL, JS, TS, HTML, CSS
-- **Backend:** .Net/.Net Framework (C#), 🔜 Node.Js
-- **Frontend:** JS, HTML, CSS, 🔜 Vite.JS + React (TS)
+- **Backend:** .Net/.Net Framework (C#), Node.Js
+- **Frontend:** JS, HTML, CSS, Vite.JS + React (TS), Astro
 - **Databases:** Sql Server, PostgreSQL, Redis, Cassandra, MongoDB,
 - **DevOps & Cloud:** Docker, AWS, Jenkins
 - **Operating System:** Linux >> Windows
